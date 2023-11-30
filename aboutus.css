@@ -1,0 +1,48 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:lightblue ;
+}
+
+header {
+    background-color: #f5f0f0;
+    color: white;
+    text-align: center;
+    padding: 0em;
+}
+
+section {
+    margin: 20px;
+}
+
+h1, h2, h3 {
+    color: #333;
+    
+}
+
+#about, #team {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+
+}
+
+.member {
+    text-align: center;
+}
+
+img {
+    max-width: 80px;
+    height: auto;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 0em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
